@@ -1,0 +1,1 @@
+save = {'variables': {'a_variable': 6, 'hey': 10}, 'scripts': {'test': "print('hey boiiiiiii !')"}}
